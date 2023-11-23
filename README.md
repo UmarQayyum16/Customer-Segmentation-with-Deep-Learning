@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on customer segmentation using machine learning techniques. The primary goal is to understand and group customers based on their behavior and characteristics. The project involves exploratory data analysis (EDA), data preprocessing, model development, and evaluation.
+This project focuses on customer segmentation using deep learning techniques. The primary goal is to understand and group customers based on their behavior and characteristics. The project involves exploratory data analysis (EDA), data preprocessing, model development, and evaluation.
 
 ## Dataset
 
