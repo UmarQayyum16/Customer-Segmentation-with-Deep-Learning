@@ -60,8 +60,8 @@ The dataset used for this project is sourced from [HackerEarth HackLive: Custome
    - Visualize the training process using TensorBoard.
    - Save the trained model for future use.
 
-   ![training_process_epoch_accuracy](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/402930cb-9b0c-4941-85b8-54efc92a78dd)
-   ![training_process_epoch_loss](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/b97a62f4-56e5-4629-a062-bbd2ec387aae)
+   ![training_process_epoch_loss](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/10d5c969-6b08-490e-84a5-2cc7a5caa4db)
+   ![training_process_epoch_accuracy](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/39075947-a37e-4d69-8168-9400e970cda5)
    ![classification_report](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/ae155e19-73e3-4bce-9af0-c9fe3ccf2303)
    ![confusion_matrix](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/e7de4b01-d17e-443e-b6f3-751feada5b5b)
 
