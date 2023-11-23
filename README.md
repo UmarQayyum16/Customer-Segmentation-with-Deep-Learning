@@ -36,8 +36,8 @@ The dataset used for this project is sourced from [HackerEarth HackLive: Custome
    - Handle missing values and outliers.
    - Visualize key features for insights.
 
-![visualize_outliers](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/35c0f1f8-e21b-4616-9307-09b3daca54a3)
-![correlation_matrix](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/96a8843b-c62c-4a76-8d5a-b3aabc4ffcaa)
+   ![visualize_outliers](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/35c0f1f8-e21b-4616-9307-09b3daca54a3)
+   ![correlation_matrix](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/96a8843b-c62c-4a76-8d5a-b3aabc4ffcaa)
 
 
 2. **Data Preprocessing:**
@@ -45,7 +45,7 @@ The dataset used for this project is sourced from [HackerEarth HackLive: Custome
    - Address missing values through imputation.
    - Scale numerical features.
      
-![scaled](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/c47d681f-01c6-4141-9cd9-9eac5f1d4848)
+   ![scaled](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/c47d681f-01c6-4141-9cd9-9eac5f1d4848)
 
 3. **Model Development:**
    - Split the dataset into training and testing sets.
@@ -53,17 +53,17 @@ The dataset used for this project is sourced from [HackerEarth HackLive: Custome
    - Build a neural network model using TensorFlow/Keras.
    - Compile and train the model.
      
-![model_architecture](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/1f0b6657-1613-4544-8a58-1793801ab880)
+   ![model_architecture](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/1f0b6657-1613-4544-8a58-1793801ab880)
 
 4. **Model Evaluation:**
    - Evaluate the model using metrics such as accuracy, precision, recall, and F1-score.
    - Visualize the training process using TensorBoard.
    - Save the trained model for future use.
 
-![training_process_epoch_loss](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/917f2fc2-2237-4e43-9d2c-96d44d1a96e5)
-![training_process_epoch_accuracy](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/1ecbe407-81d8-412e-b5c1-ccc8b3620be2)
-![classification_report](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/ae155e19-73e3-4bce-9af0-c9fe3ccf2303)
-![confusion_matrix](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/e7de4b01-d17e-443e-b6f3-751feada5b5b)
+   ![training_process_epoch_loss](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/917f2fc2-2237-4e43-9d2c-96d44d1a96e5)
+   ![training_process_epoch_accuracy](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/1ecbe407-81d8-412e-b5c1-ccc8b3620be2)
+   ![classification_report](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/ae155e19-73e3-4bce-9af0-c9fe3ccf2303)
+   ![confusion_matrix](https://github.com/UmarQayyum16/Customer-Segmentation-with-Deep-Learning/assets/149918632/e7de4b01-d17e-443e-b6f3-751feada5b5b)
 
 After training and testing the model, here are the evaluation metrics:
 
